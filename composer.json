@@ -1,0 +1,21 @@
+{
+    "name": "tutorialghor/contact",
+    "description": "Contact list of application",
+    "type": "library",
+    "require": {
+        "laravel/tinker": "^3.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ariful Islam",
+            "email": "ariful3010@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Tutorialghor\\contact\\": "src/"
+        }
+    }
+}
